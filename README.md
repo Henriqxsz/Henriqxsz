@@ -15,7 +15,8 @@
 
 ###
 
-<p align="left">Olá, meu nome Pedro henrique, tenho 18 e seja bem vindo ao meu github</p>
+<p align="left"><em>Olá, meu nome Pedro henrique, tenho 18 anos e além de programar gosto de praticar meu inglês.</em></p>
+
 
 ###
 
