@@ -11,11 +11,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+
 
 ###
 
-<p align="left"><em>Olá, meu nome Pedro henrique, tenho 18 anos e além de programar gosto de praticar meu inglês.</em></p>
+
 
 
 ###
