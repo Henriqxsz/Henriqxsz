@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠 Tecnologias</h3>
+<h3 align="left">🛠 Tecnologias </h3>
 
 ###
 
